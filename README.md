@@ -30,7 +30,7 @@ I enjoy building systems that are not just functional, but also user-friendly an
 
 ---
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ2NTJ5MDJubXlvYjFnOHNteGh4b3JzanR5d2F0YzE2bGM4bW94eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif)" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N6OGNxNGkycXhiNDM5NnplN3F5eTB1Nm4wZ3phd21sMXNhb29hciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" />
 
 ---
 
