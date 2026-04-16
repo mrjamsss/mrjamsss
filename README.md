@@ -2,7 +2,7 @@
 
 💻 **BSIT Student** | 🎯 Aspiring Developer | Philippines  
 
-I’m passionate about building practical systems and applications that solve real-world problems. Currently focused on developing Java-based applications and improving my skills in software development.
+I’m passionate about building practical systems and applications that solve real-world problems. Currently focused on developing framework applications and improving my skills in full stack development.
 
 ---
 
