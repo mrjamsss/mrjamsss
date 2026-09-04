@@ -8,8 +8,8 @@ I’m passionate about building practical systems and applications that solve re
 
 ## 🚀 About Me
 - Bachelor of Science in Information Technology
-- 3rd Year Student | Web Systems Technology
-- Goal: Become a professional software developer
+- 4rd Year Student | Web Systems Technology
+- Goal: Become a professional full stack developer
 
 ---
 
